@@ -1,0 +1,1 @@
+in the given assignment i firstly connected pgAdmin and IntellJ IDEA and created a database. In the given database i named pet_adoption_db, I created 3 tables: pets, shelters and adopters. all the tables were made within intellJ IDEA sql coe
